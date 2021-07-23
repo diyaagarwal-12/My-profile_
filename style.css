@@ -1,0 +1,119 @@
+html{
+    text-align: center;
+}
+#profile{
+     
+      background-image: url("https://media.istockphoto.com/videos/playing-with-bubbles-video-id1035166250?s=640x640");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat, repeat;
+    max-height: 1050px;
+    margin: 20px;
+    z-index: 10;
+    padding: 10px;
+    color: white;
+   
+    
+}
+
+#dp{
+    height:150px;
+    border-radius: 360px;
+    margin-top: 50px;
+    
+}
+h1{
+    font-size:70px;
+    font-family:monospace;
+    margin: 0;
+}
+#name{
+    font-size:50px;
+    font-family:fantasy;
+     margin: 0;
+   }
+#icons{
+    height:150px;
+    border-radius: 360px;
+}
+h3{
+    font-size:40px;
+    font-family:monospace;
+margin: 0;}
+h4{
+    font-size:50px;
+    font-family:fantasy;
+margin: 0;}
+#paint{
+   font-size:20px;
+    max-width: 400px;
+    margin-left: 415px;
+}
+#about{
+   font-size:20px;
+    max-width: 400px;
+    margin-left: 440px;}
+.line{
+    width: 450px;
+    height: 6px;
+    margin:8px auto;
+    background-color: black;
+}
+#hobby{
+    background-color:#fce3f3;
+    margin: 20px;
+    padding:0;
+}
+#hobby{
+    text-align: center;
+    font-size: 42px;
+    padding: 50px;
+}
+.menu{
+    z-index: 9;
+    list-style: none;
+    position:fixed;
+    top: 0px;
+    right:27px;
+    cursor:pointer;
+    font-family: sans-serif;
+    margin: 0px;
+    margin-right: 0px;
+   
+}
+.links{
+   padding-top: 5px;
+   padding-left: 9px;
+   padding-right: 9px;
+    padding-bottom: 5px;
+    float: left;
+    font-size: 17px;
+    color: white;
+    font-family:serif;
+    background-color:#e3c3f7;
+   width: 130px;
+    
+
+}
+.links:hover{
+    background-color:#fffbd1;
+}
+#goals{
+    background-color:#fce3f3;
+    margin: 20px;
+    padding:0;
+text-align: center;
+    font-size: 42px;
+    padding: 50px;}
+#inspiration{
+    background-color:#fce3f3;
+    margin: 20px;
+    padding:0;
+text-align: center;
+    font-size: 42px;
+    padding: 50px;}
+html{
+    background-color: black;
+}
+
+
