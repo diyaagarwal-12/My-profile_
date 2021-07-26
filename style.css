@@ -115,5 +115,12 @@ text-align: center;
 html{
     background-color: black;
 }
+img:hover{
+    transform: scale(0.9);
+}
+img{
+    transition: transform.2sec;
+    margin: 30px;
+}
 
 
