@@ -122,5 +122,25 @@ img{
     transition: transform.2sec;
     margin: 30px;
 }
-
+#contact{
+    margin: 20px;
+    padding:0;
+text-align: center;
+    font-size: 42px;
+    padding: 50px;
+max-height:inherit;}
+.contacts_1 h5{
+    display: inline;
+    font-size: 25px;
+}
+#contact{
+    background-color: darkgreen;
+}
+.contacts_1 a{
+    text-shadow: none;
+    color:white;
+}
+#contact iframe{
+    width:100%;
+}
 
